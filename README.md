@@ -1,4 +1,4 @@
-ListarArquivos
+Listar Arquivos em um Diretorio
 Este projeto em Python é um script simples para listar todos os arquivos e diretórios em um diretório especificado. Ele pode ser útil para navegação rápida e visualização dos arquivos em um diretório diretamente pelo terminal.
 
 Funcionalidades
